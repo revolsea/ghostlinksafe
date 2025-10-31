@@ -35,7 +35,7 @@ User → GhostLink UI → Smart Contract (Vault)
      Claim Verifier
 ```
 
-- **Frontend:** React + Vite (“Son Arslan” glossy UI)
+- **Frontend:** React + Vite (Glossy UI)
 - **Smart Contracts:** Solidity (Hardhat)
 - **Supported Networks:** Base, Linea (testnets)
 - **Design Language:** Dark bronze & electric aesthetic
@@ -86,7 +86,7 @@ ghostlinksafe/
 - **Speed first** — Blockchain never sleeps, neither should the UI.  
 - **Transparency** — Every step auditable and privacy-respecting.  
 - **Simplicity** — For both advanced and new users.  
-- **Elegance** — The “Son Arslan” design: glossy, dark bronze, minimal.
+- **Elegance** — Glossy, dark bronze, minimal.
 
 > “Security, anonymity, and beauty — all in one protocol.”
 
@@ -161,7 +161,7 @@ Kullanıcı → GhostLink Arayüzü → Akıllı Sözleşme (Kasa)
            Claim Doğrulayıcı
 ```
 
-- **Arayüz:** React + Vite (“Son Arslan” glossy UI)
+- **Arayüz:** React + Vite (glossy UI)
 - **Sözleşmeler:** Solidity (Hardhat)
 - **Ağlar:** Base ve Linea testnet
 - **Tasarım:** Koyu bronz ve elektrikli parıltı teması
@@ -212,7 +212,7 @@ ghostlinksafe/
 - **Hız öncelikli:** Blockchain uyumaz, arayüz de uyumamalı.  
 - **Şeffaflık:** Tüm işlemler izlenebilir ama gizliliğe saygılı.  
 - **Basitlik:** Kriptoya yeni kullanıcılar için bile anlaşılır.  
-- **Zarafet:** “Son Arslan” glossy tasarım diliyle şekillenmiştir.
+- **Zarafet:** Glossy tasarım diliyle şekillenmiştir.
 
 > “Güvenlik, anonimli̇k ve esteti̇k — tek protokolde.”
 

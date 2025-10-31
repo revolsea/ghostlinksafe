@@ -1,0 +1,3 @@
+# GhostLinkSafe — Teknik Doküman (TR)
+
+Özet...

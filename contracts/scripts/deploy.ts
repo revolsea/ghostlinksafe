@@ -1,0 +1,1 @@
+import { ethers } from 'hardhat';async function main(){const F=await ethers.getContractFactory('GhostLinkSafe');const c=await F.deploy();await c.deployed();console.log('Deployed:',c.address);}main().catch(e=>{console.error(e);process.exit(1)});

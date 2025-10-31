@@ -1,0 +1,3 @@
+# GhostLinkSafe — Whitepaper (EN)
+
+Abstract...
